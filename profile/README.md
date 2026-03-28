@@ -1,9 +1,3 @@
-<h3 align="center">Who am i? mnrdnn</h3>
-<h3 align="center">Software engineering From zero</h3>
-
-- 🔭 **Bringup RMX2195**
-
-<h3 align="left">Languages and Tools:</h3>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=mnrdnn&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Noob%20software%20engineering&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
@@ -55,5 +49,6 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/udyneos" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/udyneos" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;
+                                                                                   " ></a></p>
 
