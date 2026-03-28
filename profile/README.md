@@ -1,4 +1,4 @@
-<h1 align="center">Who am i? : udyneos</h1>
+<h3 align="center">Who am i? mnrdnn</h3>
 <h3 align="center">Software engineering From zero</h3>
 
 - 🔭 **Bringup RMX2195**
