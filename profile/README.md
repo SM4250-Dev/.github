@@ -1,16 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=mnrdnn&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Noob%20software%20engineering&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
+<p align="right">
   <a href="https://komarev.com/ghpvc/?username=udyneo2">
     <img src="https://komarev.com/ghpvc/?username=udyneo2&label=Profile%20views&color=00FFFF&style=flat-square" alt="udyneo2's profile views" />
   </a>
 </p>
 
-## 📌 About Me
-- 🔭 Bringup RMX2195 Project
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Project%20List&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%F0%9F%94%AD%20Bringup%20RMX2195%20Project&descSize=18&descAlignY=55&textBg=false"/>
 
-
-## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/udyneo2">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=udyneo2&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="udyneo2's GitHub Stats" />
@@ -24,17 +21,11 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=udyneo2&theme=github_dark&radius=10" alt="udyneo2's Activity Graph" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Program%20Skill&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-## 🛠️ Languages & Tools
-
-> ## Programming Languages
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /></p>
 
-> ## DevOps & Cloud
 <p align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
   <a href="https://github.com/udyneo2">
@@ -42,7 +33,8 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Contact&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 <p align="left"> <a href="mailto:mnurdiansyah105@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="mnrdnn's Email"/></a></p>
 
 <p align="center">
